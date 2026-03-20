@@ -8,8 +8,9 @@ error_reporting(E_ALL);
 <?php require_once "Template.php"; ?>
 
 <?php ob_start(); ?>
-
-<h1>Petit Dejeuner</h1>
+<div class="full-width-image">
+    <img src="asset/food4.jpeg" alt="Sunugal">
+</div>
 
 
 <?php $content=ob_get_clean() ?>
