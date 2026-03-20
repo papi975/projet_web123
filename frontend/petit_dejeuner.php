@@ -9,7 +9,7 @@ error_reporting(E_ALL);
 
 <?php ob_start(); ?>
 <div class="full-width-image">
-    <img src="asset/food.jpeg" alt="Sunugal">
+    <img src="asset/food4.jpeg" alt="Sunugal">
 </div>
 
 
